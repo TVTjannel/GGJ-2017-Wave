@@ -1,0 +1,604 @@
+﻿Log file open, 01/20/17 22:21:12
+LogInit:Display: Running engine for game: TSUNAMI_SMACKDOWN
+LogPlatformFile: Not using cached read wrapper
+LogInit:Display: RandInit(1743128781) SRandInit(1743128781).
+LogTaskGraph: Started task graph with 5 named threads and 6 total threads with 1 sets of task threads.
+LogStats: Stats thread started at 0.247122
+LogPluginManager: Loaded Plugin Paper2D, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/2D/Paper2D/Paper2D.uplugin
+LogPluginManager: Loaded Plugin LightPropagationVolume, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Blendables/LightPropagationVolume/LightPropagationVolume.uplugin
+LogPluginManager: Loaded Plugin BlankPlugin, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/BlankPlugin/BlankPlugin.uplugin
+LogPluginManager: Loaded Plugin CodeLiteSourceCodeAccess, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/CodeLiteSourceCodeAccess/CodeLiteSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin GitSourceControl, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/GitSourceControl/GitSourceControl.uplugin
+LogPluginManager: Loaded Plugin KDevelopSourceCodeAccess, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/KDevelopSourceCodeAccess/KDevelopSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin NullSourceCodeAccess, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/NullSourceCodeAccess/NullSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin OneSkyLocalizationService, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/OneSkyLocalizationService/OneSkyLocalizationService.uplugin
+LogPluginManager: Loaded Plugin PerforceSourceControl, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/PerforceSourceControl/PerforceSourceControl.uplugin
+LogPluginManager: Loaded Plugin SubversionSourceControl, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/SubversionSourceControl/SubversionSourceControl.uplugin
+LogPluginManager: Loaded Plugin UObjectPlugin, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/UObjectPlugin/UObjectPlugin.uplugin
+LogPluginManager: Loaded Plugin VisualStudioSourceCodeAccess, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/VisualStudioSourceCodeAccess/VisualStudioSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin XCodeSourceCodeAccess, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/XCodeSourceCodeAccess/XCodeSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin AudioCapture, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Editor/AudioCapture/AudioCapture.uplugin
+LogPluginManager: Loaded Plugin EpicSurvey, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Editor/EpicSurvey/EpicSurvey.uplugin
+LogPluginManager: Loaded Plugin MacGraphicsSwitching, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Editor/MacGraphicsSwitching/MacGraphicsSwitching.uplugin
+LogPluginManager: Loaded Plugin MobileLauncherProfileWizard, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Editor/MobileLauncherProfileWizard/MobileLauncherProfileWizard.uplugin
+LogPluginManager: Loaded Plugin PluginBrowser, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Editor/PluginBrowser/PluginBrowser.uplugin
+LogPluginManager: Loaded Plugin SpeedTreeImporter, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Editor/SpeedTreeImporter/SpeedTreeImporter.uplugin
+LogPluginManager: Loaded Plugin SuperSearchEditor, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Editor/SuperSearchEditor/SuperSearchEditor.uplugin
+LogPluginManager: Loaded Plugin AlembicImporter, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/AlembicImporter/AlembicImporter.uplugin
+LogPluginManager: Loaded Plugin BlueprintStats, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/BlueprintStats/BlueprintStats.uplugin
+LogPluginManager: Loaded Plugin CharacterAI, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/CharacterAI/CharacterAI.uplugin
+LogPluginManager: Loaded Plugin CodeEditor, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/CodeEditor/CodeEditor.uplugin
+LogPluginManager: Loaded Plugin CodeView, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/CodeView/CodeView.uplugin
+LogPluginManager: Loaded Plugin HTML5Networking, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/HTML5Networking/HTML5Networking.uplugin
+LogPluginManager: Loaded Plugin OSVR, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/OSVR/OSVR.uplugin
+LogPluginManager: Loaded Plugin Phya, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/Phya/Phya.uplugin
+LogPluginManager: Loaded Plugin SignificanceManager, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/SignificanceManager/SignificanceManager.uplugin
+LogPluginManager: Loaded Plugin SimpleHMD, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/SimpleHMD/SimpleHMD.uplugin
+LogPluginManager: Loaded Plugin StereoPanorama, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/StereoPanorama/StereoPanorama.uplugin
+LogPluginManager: Loaded Plugin StructBox, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/StructBox/StructBox.uplugin
+LogPluginManager: Loaded Plugin AndroidMedia, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Media/AndroidMedia/AndroidMedia.uplugin
+LogPluginManager: Loaded Plugin AvfMedia, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Media/AvfMedia/AvfMedia.uplugin
+LogPluginManager: Loaded Plugin MediaPlayerEditor, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Media/MediaPlayerEditor/MediaPlayerEditor.uplugin
+LogPluginManager: Loaded Plugin WmfMedia, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Media/WmfMedia/WmfMedia.uplugin
+LogPluginManager: Loaded Plugin MessagingDebugger, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Messaging/MessagingDebugger/MessagingDebugger.uplugin
+LogPluginManager: Loaded Plugin TcpMessaging, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Messaging/TcpMessaging/TcpMessaging.uplugin
+LogPluginManager: Loaded Plugin UdpMessaging, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Messaging/UdpMessaging/UdpMessaging.uplugin
+LogPluginManager: Loaded Plugin LevelSequenceEditor, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/MovieScene/LevelSequenceEditor/LevelSequenceEditor.uplugin
+LogPluginManager: Loaded Plugin MatineeToLevelSequence, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/MovieScene/MatineeToLevelSequence/MatineeToLevelSequence.uplugin
+LogPluginManager: Loaded Plugin NetcodeUnitTest, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/NetcodeUnitTest.uplugin
+LogPluginManager: Loaded Plugin NUTUnrealEngine4, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/NUTUnrealEngine4.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemGameCircle, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/Android/OnlineSubsystemGameCircle/OnlineSubsystemGameCircle.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemGooglePlay, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/Android/OnlineSubsystemGooglePlay/OnlineSubsystemGooglePlay.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemIOS, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/IOS/OnlineSubsystemIOS/OnlineSubsystemIOS.uplugin
+LogPluginManager: Loaded Plugin OnlineFramework, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/OnlineFramework/OnlineFramework.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystem, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystem/OnlineSubsystem.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemAmazon, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemAmazon/OnlineSubsystemAmazon.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemFacebook, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemFacebook/OnlineSubsystemFacebook.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemNull, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemNull/OnlineSubsystemNull.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemOculus, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemOculus/OnlineSubsystemOculus.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemSteam, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemSteam/OnlineSubsystemSteam.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemUtils, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemUtils/OnlineSubsystemUtils.uplugin
+LogPluginManager: Loaded Plugin IOSTapJoy, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Advertising/IOSTapJoy/IOSTapJoy.uplugin
+LogPluginManager: Loaded Plugin AnalyticsBlueprintLibrary, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Analytics/AnalyticsBlueprintLibrary/AnalyticsBlueprintLibrary.uplugin
+LogPluginManager: Loaded Plugin AnalyticsMulticast, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Analytics/AnalyticsMulticast/AnalyticsMulticast.uplugin
+LogPluginManager: Loaded Plugin Apsalar, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Analytics/Apsalar/Apsalar.uplugin
+LogPluginManager: Loaded Plugin FileLogging, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Analytics/FileLogging/FileLogging.uplugin
+LogPluginManager: Loaded Plugin Flurry, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Analytics/Flurry/Flurry.uplugin
+LogPluginManager: Loaded Plugin AndroidDeviceProfileSelector, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/AndroidDeviceProfileSelector/AndroidDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin AndroidMoviePlayer, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/AndroidMoviePlayer/AndroidMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin AppleMoviePlayer, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/AppleMoviePlayer/AppleMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin ArchVisCharacter, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/ArchVisCharacter/ArchVisCharacter.uplugin
+LogPluginManager: Loaded Plugin CableComponent, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/CableComponent/CableComponent.uplugin
+LogPluginManager: Loaded Plugin CustomMeshComponent, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/CustomMeshComponent/CustomMeshComponent.uplugin
+LogPluginManager: Loaded Plugin ExampleDeviceProfileSelector, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/ExampleDeviceProfileSelector/ExampleDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin GearVR, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/GearVR/GearVR.uplugin
+LogPluginManager: Loaded Plugin GoogleVRController, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/GoogleVR/GoogleVRController/GoogleVRController.uplugin
+LogPluginManager: Loaded Plugin GoogleVRHMD, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/GoogleVR/GoogleVRHMD/GoogleVRHMD.uplugin
+LogPluginManager: Loaded Plugin IOSDeviceProfileSelector, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/IOSDeviceProfileSelector/IOSDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin LeapMotion, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/LeapMotion/LeapMotion.uplugin
+LogPluginManager: Loaded Plugin LinuxDeviceProfileSelector, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/LinuxDeviceProfileSelector/LinuxDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin MIDIDevice, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/MIDIDevice/MIDIDevice.uplugin
+LogPluginManager: Loaded Plugin MobilePatchingUtils, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/MobilePatchingUtils/MobilePatchingUtils.uplugin
+LogPluginManager: Loaded Plugin Ansel, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Nvidia/Ansel/Ansel.uplugin
+LogPluginManager: Loaded Plugin OculusAudio, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/OculusAudio/OculusAudio.uplugin
+LogPluginManager: Loaded Plugin OculusInput, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/OculusInput/OculusInput.uplugin
+LogPluginManager: Loaded Plugin OculusLibrary, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/OculusLibrary/OculusLibrary.uplugin
+LogPluginManager: Loaded Plugin OculusRift, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/OculusRift/OculusRift.uplugin
+LogPluginManager: Loaded Plugin Oodle, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/PacketHandlers/CompressionComponents/Oodle/Oodle.uplugin
+LogPluginManager: Loaded Plugin ProceduralMeshComponent, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/ProceduralMeshComponent/ProceduralMeshComponent.uplugin
+LogPluginManager: Loaded Plugin SoundMod, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/SoundMod/SoundMod.uplugin
+LogPluginManager: Loaded Plugin SoundVisualizations, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/SoundVisualizations/SoundVisualizations.uplugin
+LogPluginManager: Loaded Plugin SteamController, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Steam/SteamController/SteamController.uplugin
+LogPluginManager: Loaded Plugin SteamVR, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Steam/SteamVR/SteamVR.uplugin
+LogPluginManager: Loaded Plugin WebBrowserWidget, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/WebBrowserWidget/WebBrowserWidget.uplugin
+LogPluginManager: Loaded Plugin WindowsDeviceProfileSelector, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/WindowsDeviceProfileSelector/WindowsDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin WindowsMoviePlayer, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/WindowsMoviePlayer/WindowsMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin ScriptPlugin, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/ScriptPlugin/ScriptPlugin.uplugin
+LogPluginManager: Loaded Plugin SlateRemote, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Slate/SlateRemote/SlateRemote.uplugin
+LogPluginManager: Loaded Plugin EditorTests, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Tests/EditorTests/EditorTests.uplugin
+LogPluginManager: Loaded Plugin FbxAutomationTestBuilder, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Tests/FbxAutomationTestBuilder/FbxAutomationTestBuilder.uplugin
+LogPluginManager: Loaded Plugin FunctionalTestingEditor, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Tests/FunctionalTestingEditor/FunctionalTestingEditor.uplugin
+LogPluginManager: Loaded Plugin RuntimeTests, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Tests/RuntimeTests/RuntimeTests.uplugin
+LogPluginManager: Loaded Plugin ScreenshotTools, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Tests/ScreenshotTools/ScreenshotTools.uplugin
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.14-CL-3249277
+LogInit: Engine Version: 4.14.3-3249277+++UE4+Release-4.14
+LogInit: Compatible Engine Version: 4.14.0-3195953+++UE4+Release-4.14
+LogInit: Net CL: 3195953
+LogDevObjectVersion: Number of dev versions registered: 13
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 7
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 1
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 8
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 17
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 12
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 1
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogInit: Compiled (64-bit): Jan  6 2017 10:49:43
+LogInit: Compiled with Visual C++: 19.00.23026.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.14
+LogInit: Command line: -EpicPortal 
+LogInit: Base directory: C:/Program Files (x86)/Epic Games/4.14/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2017.01.21-06.21.13:314][  0]LogInit: Selected Device Profile: [Windows]
+[2017.01.21-06.21.13:314][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2017.01.21-06.21.13:370][  0]LogInit: Computer: TJANDRAPC
+[2017.01.21-06.21.13:370][  0]LogInit: User: Daniel
+[2017.01.21-06.21.13:370][  0]LogInit: CPU Page size=65536, Cores=2
+[2017.01.21-06.21.13:370][  0]LogInit: High frequency timer resolution =2.533198 MHz
+[2017.01.21-06.21.13:370][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2017.01.21-06.21.13:370][  0]LogMemory: Platform Memory Stats for Windows
+[2017.01.21-06.21.13:370][  0]LogMemory: Process Physical Memory: 263.96 MB used, 263.96 MB peak
+[2017.01.21-06.21.13:370][  0]LogMemory: Process Virtual Memory: 262.50 MB used, 262.50 MB peak
+[2017.01.21-06.21.13:370][  0]LogMemory: Physical Memory: 5739.88 MB used,  2344.39 MB free, 8084.27 MB total
+[2017.01.21-06.21.13:370][  0]LogMemory: Virtual Memory: 674.54 MB used,  2344.39 MB free, 134217728.00 MB total
+[2017.01.21-06.21.14:555][  0]LogTextLocalizationManager: No specific translations for ('en-US') exist, so ('en') translations will be used.
+[2017.01.21-06.21.23:690][  0]LogD3D11RHI: D3D11 adapters:
+[2017.01.21-06.21.23:728][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GT 820M' (Feature Level 11_0)
+[2017.01.21-06.21.23:728][  0]LogD3D11RHI:       1999/0/4042 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2017.01.21-06.21.23:799][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics Family' (Feature Level 11_0)
+[2017.01.21-06.21.23:799][  0]LogD3D11RHI:       112/0/2048 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2017.01.21-06.21.23:802][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2017.01.21-06.21.23:802][  0]LogD3D11RHI:       0/0/4042 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2017.01.21-06.21.23:802][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2017.01.21-06.21.23:811][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2017.01.21-06.21.23:811][  0]LogD3D11RHI:     GPU DeviceId: 0x1140 (for the marketing name, search the web for "GPU Device Id")
+[2017.01.21-06.21.23:811][  0]LogWindows: EnumDisplayDevices:
+[2017.01.21-06.21.23:812][  0]LogWindows:    0. 'Intel(R) HD Graphics Family' (P:1 D:1)
+[2017.01.21-06.21.23:812][  0]LogWindows:    1. 'Intel(R) HD Graphics Family' (P:0 D:1)
+[2017.01.21-06.21.23:813][  0]LogWindows:    2. 'Intel(R) HD Graphics Family' (P:0 D:0)
+[2017.01.21-06.21.23:813][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2017.01.21-06.21.23:813][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GT 820M
+[2017.01.21-06.21.23:813][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2017.01.21-06.21.23:813][  0]LogD3D11RHI:      Driver Date: Unknown
+[2017.01.21-06.21.23:813][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
+[2017.01.21-06.21.23:835][  0]LogD3D11RHI:Warning: Timestamp queries are currently disabled on this hardware due to instability. Realtime GPU stats will not be available. You can override this behaviour by setting r.NVIDIATimestampWorkaround to 0
+[2017.01.21-06.21.23:835][  0]LogD3D11RHI: Async texture creation enabled
+[2017.01.21-06.21.23:848][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2017.01.21-06.21.23:850][  0]LogShaderCompilers: Guid format shader working directory is -15 characters bigger than the processId version (../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Intermediate/Shaders/WorkingDirectory/14572/).
+[2017.01.21-06.21.23:850][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Daniel/AppData/Local/Temp/UnrealShaderWorkingDir/C491E5F04DFEFAC7BFA1BB962092D37A/'.
+[2017.01.21-06.21.23:850][  0]LogShaderCompilers:Display: Using Local Shader Compiler.
+[2017.01.21-06.21.31:440][  0]LogTemp:Display: Loaded TP AllDesktopTargetPlatform
+[2017.01.21-06.21.31:603][  0]LogTemp:Display: Loaded TP MacClientTargetPlatform
+[2017.01.21-06.21.31:734][  0]LogTemp:Display: Loaded TP MacNoEditorTargetPlatform
+[2017.01.21-06.21.31:877][  0]LogTemp:Display: Loaded TP MacServerTargetPlatform
+[2017.01.21-06.21.32:115][  0]LogTemp:Display: Loaded TP MacTargetPlatform
+[2017.01.21-06.21.32:248][  0]LogTemp:Display: Loaded TP WindowsClientTargetPlatform
+[2017.01.21-06.21.32:390][  0]LogTemp:Display: Loaded TP WindowsNoEditorTargetPlatform
+[2017.01.21-06.21.32:546][  0]LogTemp:Display: Loaded TP WindowsServerTargetPlatform
+[2017.01.21-06.21.32:702][  0]LogTemp:Display: Loaded TP WindowsTargetPlatform
+[2017.01.21-06.21.32:903][  0]LogTemp:Display: Loaded TP AndroidTargetPlatform
+[2017.01.21-06.21.33:059][  0]LogTemp:Display: Loaded TP Android_ASTCTargetPlatform
+[2017.01.21-06.21.33:189][  0]LogTemp:Display: Loaded TP Android_ATCTargetPlatform
+[2017.01.21-06.21.33:343][  0]LogTemp:Display: Loaded TP Android_DXTTargetPlatform
+[2017.01.21-06.21.33:535][  0]LogTemp:Display: Loaded TP Android_ETC1TargetPlatform
+[2017.01.21-06.21.33:693][  0]LogTemp:Display: Loaded TP Android_ETC2TargetPlatform
+[2017.01.21-06.21.34:031][  0]LogTemp:Display: Loaded TP Android_MultiTargetPlatform
+[2017.01.21-06.21.34:031][  0]LogTemp:Display: Loaded TP Android_PVRTCTargetPlatform
+[2017.01.21-06.21.34:174][  0]LogTemp:Display: Loaded TP HTML5TargetPlatform
+[2017.01.21-06.21.34:552][  0]LogTemp:Display: Loaded TP IOSTargetPlatform
+[2017.01.21-06.21.34:637][  0]LogTemp:Display: Loaded TP TVOSTargetPlatform
+[2017.01.21-06.21.34:785][  0]LogTemp:Display: Loaded TP LinuxClientTargetPlatform
+[2017.01.21-06.21.34:975][  0]LogTemp:Display: Loaded TP LinuxNoEditorTargetPlatform
+[2017.01.21-06.21.35:191][  0]LogTemp:Display: Loaded TP LinuxServerTargetPlatform
+[2017.01.21-06.21.35:478][  0]LogTemp:Display: Loaded TP LinuxTargetPlatform
+[2017.01.21-06.21.35:479][  0]LogTargetPlatformManager:Display: Building Assets For Windows
+[2017.01.21-06.21.37:573][  0]LogDerivedDataCache:Display: Max Cache Size: 512 MB
+[2017.01.21-06.21.37:682][  0]LogDerivedDataCache: Loaded boot cache 0.11s 64MB C:/Users/Daniel/AppData/Local/UnrealEngine/4.14/DerivedDataCache/Boot.ddc.
+[2017.01.21-06.21.37:682][  0]LogDerivedDataCache:Display: Loaded Boot cache: C:/Users/Daniel/AppData/Local/UnrealEngine/4.14/DerivedDataCache/Boot.ddc
+[2017.01.21-06.21.37:682][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2017.01.21-06.21.37:682][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2017.01.21-06.21.37:683][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2017.01.21-06.21.37:683][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2017.01.21-06.21.37:711][  0]LogDerivedDataCache:Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2017.01.21-06.21.37:724][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Daniel/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2017.01.21-06.21.40:572][  0]LogInit: Selected Device Profile: [Windows]
+[2017.01.21-06.21.40:576][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2017.01.21-06.21.41:332][  0]LogMeshUtilities: Using QuadricMeshReduction for automatic static mesh reduction
+[2017.01.21-06.21.41:528][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2017.01.21-06.21.41:734][  0]LogMeshUtilities: Using SimplygonSwarm for distributed automatic mesh merging
+[2017.01.21-06.21.41:734][  0]LogMeshUtilities: No automatic skeletal mesh reduction module available
+[2017.01.21-06.21.41:734][  0]LogMeshUtilities: No automatic mesh merging module available
+[2017.01.21-06.21.42:837][  0]LogNetVersion: GetLocalNetworkVersion: CL: 3195953, ProjectName: tsunami_smackdown, ProjectVersion: , EngineNetworkVersion: 2, GameNetworkVersion: 0, NetworkChecksum: 218061758
+[2017.01.21-06.21.43:023][  0]LogAssetRegistry: FAssetRegistry took 0.0232 seconds to start up
+[2017.01.21-06.21.43:156][  0]LogPackageLocalizationCache: Processed 3 localized package path(s) for 2 prioritized culture(s) in 0.055983 seconds
+[2017.01.21-06.21.43:167][  0]LogUObjectArray: 31946 objects as part of root set at end of initial load.
+[2017.01.21-06.21.43:167][  0]LogUObjectAllocator: 6935848 out of 0 bytes used by permanent object pool.
+[2017.01.21-06.21.43:167][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2017.01.21-06.21.43:381][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2017.01.21-06.21.47:065][  0]LogSlate: Using Freetype 2.6.0
+[2017.01.21-06.21.47:086][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.01.21-06.21.47:086][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.01.21-06.22.06:509][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2017.01.21-06.22.06:621][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2017.01.21-06.22.07:423][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2017.01.21-06.22.08:849][  0]SourceControl: Info Source control is disabled
+[2017.01.21-06.22.11:736][  0]SourceControl: Info Source control is disabled
+[2017.01.21-06.22.11:871][  0]SourceControl: Info Source control is disabled
+[2017.01.21-06.22.12:051][  0]SourceControl: Info Source control is disabled
+[2017.01.21-06.22.15:940][  0]LogEngine: Initializing Engine...
+[2017.01.21-06.22.15:942][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2017.01.21-06.22.16:697][  0]LogAIModule: Creating AISystem for world Untitled
+[2017.01.21-06.22.16:712][  0]LogInit: XAudio2 using 'Speakers (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.01.21-06.22.16:729][  0]LogInit: FAudioDevice initialized.
+[2017.01.21-06.22.16:798][  0]LogDerivedDataCache: Saved boot cache 0.07s 64MB C:/Users/Daniel/AppData/Local/UnrealEngine/4.14/DerivedDataCache/Boot.ddc.
+[2017.01.21-06.22.16:819][  0]LogInit: Texture streaming: Enabled
+[2017.01.21-06.22.17:435][  0]LogInit: Transaction tracking system initialized
+[2017.01.21-06.22.18:392][  0]BlueprintLog: New page: Editor Load
+[2017.01.21-06.22.21:106][  0]LogInit:Warning: CVar named 'r.MobileHDR' marked up in RendererSettings was not found or is set to read-only
+[2017.01.21-06.22.21:526][  0]LocalizationService: Info Localization service is disabled
+[2017.01.21-06.22.23:552][  0]LogConsoleResponse:Display: 
+[2017.01.21-06.22.23:902][  0]LogCook:Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2017.01.21-06.22.23:902][  0]LogCook:Display: Mobile HDR setting 0
+[2017.01.21-06.22.24:368][  0]LogFileCache: Scanning file cache for directory 'C:/Program Files (x86)/Epic Games/TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/' took 0.01s
+[2017.01.21-06.22.26:598][  0]SourceControl: Info Source control is disabled
+[2017.01.21-06.22.26:602][  0]LogFactory: FactoryCreateFile: PackFactory with PackFactory (0 0 C:/Program Files (x86)/Epic Games/4.14/FeaturePacks/StarterContent.upack)
+[2017.01.21-06.22.26:617][  0]LogPackFactory: Finished extracting 8 files (including 0 errors).
+[2017.01.21-06.22.26:619][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Floor_400x400.uasset" to "../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/StarterContent/Architecture/Floor_400x400.uasset"
+[2017.01.21-06.22.26:655][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Pillar_50x500.uasset" to "../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/StarterContent/Architecture/Pillar_50x500.uasset"
+[2017.01.21-06.22.26:657][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" to "../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/StarterContent/Architecture/SM_AssetPlatform.uasset"
+[2017.01.21-06.22.26:659][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x200.uasset" to "../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/StarterContent/Architecture/Wall_400x200.uasset"
+[2017.01.21-06.22.26:660][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x300.uasset" to "../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/StarterContent/Architecture/Wall_400x300.uasset"
+[2017.01.21-06.22.26:662][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x400.uasset" to "../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/StarterContent/Architecture/Wall_400x400.uasset"
+[2017.01.21-06.22.26:665][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_500x500.uasset" to "../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/StarterContent/Architecture/Wall_500x500.uasset"
+[2017.01.21-06.22.26:667][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x300.uasset" to "../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/StarterContent/Architecture/Wall_Door_400x300.uasset"
+[2017.01.21-06.22.26:669][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x400.uasset" to "../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/StarterContent/Architecture/Wall_Door_400x400.uasset"
+[2017.01.21-06.22.26:671][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x300.uasset" to "../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/StarterContent/Architecture/Wall_Window_400x300.uasset"
+[2017.01.21-06.22.26:673][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x400.uasset" to "../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/StarterContent/Architecture/Wall_Window_400x400.uasset"
+[2017.01.21-06.22.26:676][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse01.uasset" to "../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/StarterContent/Audio/Collapse01.uasset"
+[2017.01.21-06.22.26:679][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse02.uasset" to "../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/StarterContent/Audio/Collapse02.uasset"
+[2017.01.21-06.22.26:682][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse_Cue.uasset" to "../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/StarterContent/Audio/Collapse_Cue.uasset"
+[2017.01.21-06.22.26:684][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion01.uasset" to "../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/StarterContent/Audio/Explosion01.uasset"
+[2017.01.21-06.22.26:686][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion02.uasset" to "../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/StarterContent/Audio/Explosion02.uasset"
+[2017.01.21-06.22.26:688][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion_Cue.uasset" to "../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/StarterContent/Audio/Explosion_Cue.uasset"
+[2017.01.21-06.22.26:690][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01.uasset" to "../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/StarterContent/Audio/Fire01.uasset"
+[2017.01.21-06.22.26:691][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01_Cue.uasset" to "../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/StarterContent/Audio/Fire01_Cue.uasset"
+[2017.01.21-06.22.26:693][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01.uasset" to "../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/StarterContent/Audio/Fire_Sparks01.uasset"
+[2017.01.21-06.22.26:694][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" to "../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset"
+[2017.01.21-06.22.26:697][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01.uasset" to "../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/StarterContent/Audio/Light01.uasset"
+[2017.01.21-06.22.26:698][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01_Cue.uasset" to "../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/StarterContent/Audio/Light01_Cue.uasset"
+[2017.01.21-06.22.26:700][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02.uasset" to "../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/StarterContent/Audio/Light02.uasset"
+[2017.01.21-06.22.26:701][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02_Cue.uasset" to "../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/StarterContent/Audio/Light02_Cue.uasset"
+[2017.01.21-06.22.26:703][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01.uasset" to "../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/StarterContent/Audio/Smoke01.uasset"
+[2017.01.21-06.22.26:704][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01_Cue.uasset" to "../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/StarterContent/Audio/Smoke01_Cue.uasset"
+[2017.01.21-06.22.26:705][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Background_Cue.uasset" to "../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/StarterContent/Audio/Starter_Background_Cue.uasset"
+[2017.01.21-06.22.26:709][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Birds01.uasset" to "../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/StarterContent/Audio/Starter_Birds01.uasset"
+[2017.01.21-06.22.26:719][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music01.uasset" to "../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/StarterContent/Audio/Starter_Music01.uasset"
+[2017.01.21-06.22.26:720][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music_Cue.uasset" to "../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/StarterContent/Audio/Starter_Music_Cue.uasset"
+[2017.01.21-06.22.26:724][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind05.uasset" to "../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/StarterContent/Audio/Starter_Wind05.uasset"
+[2017.01.21-06.22.26:728][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind06.uasset" to "../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/StarterContent/Audio/Starter_Wind06.uasset"
+[2017.01.21-06.22.26:733][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01.uasset" to "../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/StarterContent/Audio/Steam01.uasset"
+[2017.01.21-06.22.26:735][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01_Cue.uasset" to "../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/StarterContent/Audio/Steam01_Cue.uasset"
+[2017.01.21-06.22.26:737][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" to "../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset"
+[2017.01.21-06.22.26:739][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" to "../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset"
+[2017.01.21-06.22.26:741][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" to "../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset"
+[2017.01.21-06.22.26:743][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" to "../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset"
+[2017.01.21-06.22.26:745][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" to "../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset"
+[2017.01.21-06.22.26:747][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" to "../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset"
+[2017.01.21-06.22.26:749][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" to "../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset"
+[2017.01.21-06.22.26:751][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/BP_LightStudio.uasset" to "../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/StarterContent/Blueprints/BP_LightStudio.uasset"
+[2017.01.21-06.22.26:752][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" to "../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset"
+[2017.01.21-06.22.26:753][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" to "../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset"
+[2017.01.21-06.22.26:755][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" to "../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset"
+[2017.01.21-06.22.26:756][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" to "../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset"
+[2017.01.21-06.22.26:758][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" to "../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset"
+[2017.01.21-06.22.26:760][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/Skybox.uasset" to "../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/StarterContent/Blueprints/Assets/Skybox.uasset"
+[2017.01.21-06.22.26:763][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" to "../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset"
+[2017.01.21-06.22.26:766][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" to "../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset"
+[2017.01.21-06.22.26:838][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" to "../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
+[2017.01.21-06.22.26:840][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting.umap" to "../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/StarterContent/Maps/Advanced_Lighting.umap"
+[2017.01.21-06.22.26:844][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default.umap" to "../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/StarterContent/Maps/Minimal_Default.umap"
+[2017.01.21-06.22.27:056][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap.umap" to "../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/StarterContent/Maps/StarterMap.umap"
+[2017.01.21-06.22.27:080][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_AssetPlatform.uasset" to "../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/StarterContent/Materials/M_AssetPlatform.uasset"
+[2017.01.21-06.22.27:098][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Floor.uasset" to "../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/StarterContent/Materials/M_Basic_Floor.uasset"
+[2017.01.21-06.22.27:114][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Wall.uasset" to "../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/StarterContent/Materials/M_Basic_Wall.uasset"
+[2017.01.21-06.22.27:133][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" to "../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset"
+[2017.01.21-06.22.27:153][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" to "../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/StarterContent/Materials/M_Brick_Clay_New.uasset"
+[2017.01.21-06.22.27:191][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" to "../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset"
+[2017.01.21-06.22.27:209][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" to "../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset"
+[2017.01.21-06.22.27:243][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" to "../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset"
+[2017.01.21-06.22.27:274][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" to "../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset"
+[2017.01.21-06.22.27:298][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" to "../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset"
+[2017.01.21-06.22.27:314][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" to "../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset"
+[2017.01.21-06.22.27:332][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" to "../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset"
+[2017.01.21-06.22.27:373][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset" to "../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset"
+[2017.01.21-06.22.27:393][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Grime.uasset" to "../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/StarterContent/Materials/M_Concrete_Grime.uasset"
+[2017.01.21-06.22.27:396][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Panels.uasset" to "../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/StarterContent/Materials/M_Concrete_Panels.uasset"
+[2017.01.21-06.22.27:418][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Poured.uasset" to "../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/StarterContent/Materials/M_Concrete_Poured.uasset"
+[2017.01.21-06.22.27:422][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" to "../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/StarterContent/Materials/M_Concrete_Tiles.uasset"
+[2017.01.21-06.22.27:442][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Glass.uasset" to "../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/StarterContent/Materials/M_Glass.uasset"
+[2017.01.21-06.22.27:456][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Grass.uasset" to "../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/StarterContent/Materials/M_Ground_Grass.uasset"
+[2017.01.21-06.22.27:458][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Gravel.uasset" to "../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/StarterContent/Materials/M_Ground_Gravel.uasset"
+[2017.01.21-06.22.27:476][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Moss.uasset" to "../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/StarterContent/Materials/M_Ground_Moss.uasset"
+[2017.01.21-06.22.27:479][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" to "../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset"
+[2017.01.21-06.22.27:497][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" to "../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset"
+[2017.01.21-06.22.27:538][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Chrome.uasset" to "../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/StarterContent/Materials/M_Metal_Chrome.uasset"
+[2017.01.21-06.22.27:542][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Copper.uasset" to "../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/StarterContent/Materials/M_Metal_Copper.uasset"
+[2017.01.21-06.22.27:546][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Gold.uasset" to "../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/StarterContent/Materials/M_Metal_Gold.uasset"
+[2017.01.21-06.22.27:550][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Rust.uasset" to "../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/StarterContent/Materials/M_Metal_Rust.uasset"
+[2017.01.21-06.22.27:553][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Steel.uasset" to "../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/StarterContent/Materials/M_Metal_Steel.uasset"
+[2017.01.21-06.22.27:582][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Basalt.uasset" to "../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/StarterContent/Materials/M_Rock_Basalt.uasset"
+[2017.01.21-06.22.27:585][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset" to "../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset"
+[2017.01.21-06.22.27:603][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Sandstone.uasset" to "../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/StarterContent/Materials/M_Rock_Sandstone.uasset"
+[2017.01.21-06.22.27:607][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Slate.uasset" to "../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/StarterContent/Materials/M_Rock_Slate.uasset"
+[2017.01.21-06.22.27:610][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset" to "../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset"
+[2017.01.21-06.22.27:614][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset" to "../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset"
+[2017.01.21-06.22.27:637][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" to "../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset"
+[2017.01.21-06.22.27:640][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Panel.uasset" to "../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/StarterContent/Materials/M_Tech_Panel.uasset"
+[2017.01.21-06.22.27:642][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Lake.uasset" to "../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/StarterContent/Materials/M_Water_Lake.uasset"
+[2017.01.21-06.22.27:645][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Ocean.uasset" to "../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/StarterContent/Materials/M_Water_Ocean.uasset"
+[2017.01.21-06.22.27:661][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" to "../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset"
+[2017.01.21-06.22.27:667][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" to "../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset"
+[2017.01.21-06.22.27:671][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Oak.uasset" to "../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/StarterContent/Materials/M_Wood_Oak.uasset"
+[2017.01.21-06.22.27:675][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Pine.uasset" to "../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/StarterContent/Materials/M_Wood_Pine.uasset"
+[2017.01.21-06.22.27:691][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Walnut.uasset" to "../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/StarterContent/Materials/M_Wood_Walnut.uasset"
+[2017.01.21-06.22.27:707][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Ambient_Dust.uasset" to "../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/StarterContent/Particles/P_Ambient_Dust.uasset"
+[2017.01.21-06.22.27:729][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Explosion.uasset" to "../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/StarterContent/Particles/P_Explosion.uasset"
+[2017.01.21-06.22.27:749][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Fire.uasset" to "../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/StarterContent/Particles/P_Fire.uasset"
+[2017.01.21-06.22.27:763][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Smoke.uasset" to "../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/StarterContent/Particles/P_Smoke.uasset"
+[2017.01.21-06.22.27:767][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Sparks.uasset" to "../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/StarterContent/Particles/P_Sparks.uasset"
+[2017.01.21-06.22.27:785][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Steam_Lit.uasset" to "../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/StarterContent/Particles/P_Steam_Lit.uasset"
+[2017.01.21-06.22.27:801][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Burst.uasset" to "../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/StarterContent/Particles/Materials/M_Burst.uasset"
+[2017.01.21-06.22.27:805][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" to "../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset"
+[2017.01.21-06.22.27:808][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" to "../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset"
+[2017.01.21-06.22.27:810][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" to "../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset"
+[2017.01.21-06.22.27:813][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/m_flare_01.uasset" to "../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/StarterContent/Particles/Materials/m_flare_01.uasset"
+[2017.01.21-06.22.27:816][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" to "../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset"
+[2017.01.21-06.22.27:841][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" to "../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset"
+[2017.01.21-06.22.27:881][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" to "../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset"
+[2017.01.21-06.22.27:903][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" to "../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset"
+[2017.01.21-06.22.27:906][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Spark.uasset" to "../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/StarterContent/Particles/Materials/M_Spark.uasset"
+[2017.01.21-06.22.27:913][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/MaterialSphere.uasset" to "../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/StarterContent/Props/MaterialSphere.uasset"
+[2017.01.21-06.22.27:917][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Bush.uasset" to "../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/StarterContent/Props/SM_Bush.uasset"
+[2017.01.21-06.22.27:920][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Chair.uasset" to "../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/StarterContent/Props/SM_Chair.uasset"
+[2017.01.21-06.22.27:923][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_CornerFrame.uasset" to "../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/StarterContent/Props/SM_CornerFrame.uasset"
+[2017.01.21-06.22.27:947][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Couch.uasset" to "../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/StarterContent/Props/SM_Couch.uasset"
+[2017.01.21-06.22.27:951][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Door.uasset" to "../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/StarterContent/Props/SM_Door.uasset"
+[2017.01.21-06.22.27:954][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_DoorFrame.uasset" to "../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/StarterContent/Props/SM_DoorFrame.uasset"
+[2017.01.21-06.22.27:956][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_GlassWindow.uasset" to "../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/StarterContent/Props/SM_GlassWindow.uasset"
+[2017.01.21-06.22.27:960][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" to "../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset"
+[2017.01.21-06.22.27:974][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Wall.uasset" to "../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/StarterContent/Props/SM_Lamp_Wall.uasset"
+[2017.01.21-06.22.28:016][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset" to "../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset"
+[2017.01.21-06.22.28:018][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame.uasset" to "../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/StarterContent/Props/SM_PillarFrame.uasset"
+[2017.01.21-06.22.28:020][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame300.uasset" to "../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/StarterContent/Props/SM_PillarFrame300.uasset"
+[2017.01.21-06.22.28:022][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Rock.uasset" to "../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/StarterContent/Props/SM_Rock.uasset"
+[2017.01.21-06.22.28:024][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Shelf.uasset" to "../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/StarterContent/Props/SM_Shelf.uasset"
+[2017.01.21-06.22.28:025][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Stairs.uasset" to "../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/StarterContent/Props/SM_Stairs.uasset"
+[2017.01.21-06.22.28:027][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Statue.uasset" to "../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/StarterContent/Props/SM_Statue.uasset"
+[2017.01.21-06.22.28:031][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_TableRound.uasset" to "../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/StarterContent/Props/SM_TableRound.uasset"
+[2017.01.21-06.22.28:033][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_WindowFrame.uasset" to "../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/StarterContent/Props/SM_WindowFrame.uasset"
+[2017.01.21-06.22.28:035][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Bush.uasset" to "../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/StarterContent/Props/Materials/M_Bush.uasset"
+[2017.01.21-06.22.28:036][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Chair.uasset" to "../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/StarterContent/Props/Materials/M_Chair.uasset"
+[2017.01.21-06.22.28:038][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Door.uasset" to "../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/StarterContent/Props/Materials/M_Door.uasset"
+[2017.01.21-06.22.28:040][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Frame.uasset" to "../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/StarterContent/Props/Materials/M_Frame.uasset"
+[2017.01.21-06.22.28:042][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Lamp.uasset" to "../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/StarterContent/Props/Materials/M_Lamp.uasset"
+[2017.01.21-06.22.28:043][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset" to "../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset"
+[2017.01.21-06.22.28:046][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset" to "../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset"
+[2017.01.21-06.22.28:048][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Rock.uasset" to "../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/StarterContent/Props/Materials/M_Rock.uasset"
+[2017.01.21-06.22.28:050][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Shelf.uasset" to "../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/StarterContent/Props/Materials/M_Shelf.uasset"
+[2017.01.21-06.22.28:052][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Statue.uasset" to "../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/StarterContent/Props/Materials/M_Statue.uasset"
+[2017.01.21-06.22.28:053][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" to "../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/StarterContent/Props/Materials/M_StatueGlass.uasset"
+[2017.01.21-06.22.28:055][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_TableRound.uasset" to "../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/StarterContent/Props/Materials/M_TableRound.uasset"
+[2017.01.21-06.22.28:058][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cone.uasset" to "../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/StarterContent/Shapes/Shape_Cone.uasset"
+[2017.01.21-06.22.28:060][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cube.uasset" to "../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/StarterContent/Shapes/Shape_Cube.uasset"
+[2017.01.21-06.22.28:062][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cylinder.uasset" to "../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/StarterContent/Shapes/Shape_Cylinder.uasset"
+[2017.01.21-06.22.28:066][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset" to "../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset"
+[2017.01.21-06.22.28:068][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe.uasset" to "../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/StarterContent/Shapes/Shape_Pipe.uasset"
+[2017.01.21-06.22.28:071][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_180.uasset" to "../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/StarterContent/Shapes/Shape_Pipe_180.uasset"
+[2017.01.21-06.22.28:073][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_90.uasset" to "../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/StarterContent/Shapes/Shape_Pipe_90.uasset"
+[2017.01.21-06.22.28:075][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Plane.uasset" to "../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/StarterContent/Shapes/Shape_Plane.uasset"
+[2017.01.21-06.22.28:077][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset" to "../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset"
+[2017.01.21-06.22.28:080][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Sphere.uasset" to "../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/StarterContent/Shapes/Shape_Sphere.uasset"
+[2017.01.21-06.22.28:082][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Torus.uasset" to "../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/StarterContent/Shapes/Shape_Torus.uasset"
+[2017.01.21-06.22.28:083][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim.uasset" to "../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/StarterContent/Shapes/Shape_Trim.uasset"
+[2017.01.21-06.22.28:085][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset" to "../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset"
+[2017.01.21-06.22.28:086][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset" to "../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset"
+[2017.01.21-06.22.28:087][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_TriPyramid.uasset" to "../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/StarterContent/Shapes/Shape_TriPyramid.uasset"
+[2017.01.21-06.22.28:089][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Tube.uasset" to "../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/StarterContent/Shapes/Shape_Tube.uasset"
+[2017.01.21-06.22.28:091][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_A.uasset" to "../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/StarterContent/Shapes/Shape_Wedge_A.uasset"
+[2017.01.21-06.22.28:092][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_B.uasset" to "../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/StarterContent/Shapes/Shape_Wedge_B.uasset"
+[2017.01.21-06.22.28:094][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_WideCapsule.uasset" to "../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/StarterContent/Shapes/Shape_WideCapsule.uasset"
+[2017.01.21-06.22.28:227][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" to "../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset"
+[2017.01.21-06.22.28:379][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" to "../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset"
+[2017.01.21-06.22.28:580][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" to "../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset"
+[2017.01.21-06.22.28:756][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" to "../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset"
+[2017.01.21-06.22.28:983][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" to "../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset"
+[2017.01.21-06.22.29:126][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" to "../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset"
+[2017.01.21-06.22.29:292][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" to "../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset"
+[2017.01.21-06.22.29:471][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" to "../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset"
+[2017.01.21-06.22.29:666][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" to "../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset"
+[2017.01.21-06.22.29:796][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" to "../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset"
+[2017.01.21-06.22.30:092][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" to "../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset"
+[2017.01.21-06.22.30:232][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" to "../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset"
+[2017.01.21-06.22.30:379][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" to "../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset"
+[2017.01.21-06.22.30:402][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Burst_M.uasset" to "../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/StarterContent/Textures/T_Burst_M.uasset"
+[2017.01.21-06.22.30:435][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_D.uasset" to "../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/StarterContent/Textures/T_Bush_D.uasset"
+[2017.01.21-06.22.30:458][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_N.uasset" to "../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/StarterContent/Textures/T_Bush_N.uasset"
+[2017.01.21-06.22.30:497][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" to "../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset"
+[2017.01.21-06.22.30:515][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" to "../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset"
+[2017.01.21-06.22.30:569][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_M.uasset" to "../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/StarterContent/Textures/T_Chair_M.uasset"
+[2017.01.21-06.22.30:613][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_N.uasset" to "../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/StarterContent/Textures/T_Chair_N.uasset"
+[2017.01.21-06.22.30:635][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Checker_Noise_M.uasset" to "../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/StarterContent/Textures/T_Checker_Noise_M.uasset"
+[2017.01.21-06.22.30:801][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" to "../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset"
+[2017.01.21-06.22.30:872][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" to "../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset"
+[2017.01.21-06.22.31:014][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" to "../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset"
+[2017.01.21-06.22.31:113][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" to "../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset"
+[2017.01.21-06.22.31:324][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" to "../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset"
+[2017.01.21-06.22.31:595][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" to "../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset"
+[2017.01.21-06.22.31:685][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" to "../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset"
+[2017.01.21-06.22.31:801][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" to "../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset"
+[2017.01.21-06.22.32:000][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" to "../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset"
+[2017.01.21-06.22.32:139][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" to "../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset"
+[2017.01.21-06.22.32:289][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" to "../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset"
+[2017.01.21-06.22.32:438][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" to "../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset"
+[2017.01.21-06.22.32:896][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" to "../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset"
+[2017.01.21-06.22.33:670][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" to "../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset"
+[2017.01.21-06.22.33:835][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" to "../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset"
+[2017.01.21-06.22.34:081][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" to "../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset"
+[2017.01.21-06.22.34:107][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" to "../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset"
+[2017.01.21-06.22.34:162][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" to "../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset"
+[2017.01.21-06.22.34:213][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_M.uasset" to "../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/StarterContent/Textures/T_Door_M.uasset"
+[2017.01.21-06.22.34:230][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_N.uasset" to "../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/StarterContent/Textures/T_Door_N.uasset"
+[2017.01.21-06.22.34:251][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Dust_Particle_D.uasset" to "../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/StarterContent/Textures/T_Dust_Particle_D.uasset"
+[2017.01.21-06.22.34:306][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" to "../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/StarterContent/Textures/T_Explosion_SubUV.uasset"
+[2017.01.21-06.22.34:343][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_SubUV.uasset" to "../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/StarterContent/Textures/T_Fire_SubUV.uasset"
+[2017.01.21-06.22.34:386][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" to "../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset"
+[2017.01.21-06.22.34:426][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_M.uasset" to "../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/StarterContent/Textures/T_Frame_M.uasset"
+[2017.01.21-06.22.34:456][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_N.uasset" to "../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/StarterContent/Textures/T_Frame_N.uasset"
+[2017.01.21-06.22.34:473][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Gradinet_01.uasset" to "../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/StarterContent/Textures/T_Gradinet_01.uasset"
+[2017.01.21-06.22.34:625][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" to "../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/StarterContent/Textures/T_Ground_Grass_D.uasset"
+[2017.01.21-06.22.34:822][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" to "../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/StarterContent/Textures/T_Ground_Grass_N.uasset"
+[2017.01.21-06.22.34:992][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" to "../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset"
+[2017.01.21-06.22.35:171][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" to "../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset"
+[2017.01.21-06.22.35:758][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_ground_Moss_D.uasset" to "../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/StarterContent/Textures/T_ground_Moss_D.uasset"
+[2017.01.21-06.22.35:979][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" to "../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/StarterContent/Textures/T_Ground_Moss_N.uasset"
+[2017.01.21-06.22.35:998][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_M.uasset" to "../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/StarterContent/Textures/T_Lamp_M.uasset"
+[2017.01.21-06.22.36:051][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_N.uasset" to "../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/StarterContent/Textures/T_Lamp_N.uasset"
+[2017.01.21-06.22.36:203][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_MacroVariation.uasset" to "../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/StarterContent/Textures/T_MacroVariation.uasset"
+[2017.01.21-06.22.36:355][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" to "../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset"
+[2017.01.21-06.22.36:474][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" to "../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/StarterContent/Textures/T_Metal_Copper_D.uasset"
+[2017.01.21-06.22.36:648][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" to "../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/StarterContent/Textures/T_Metal_Gold_D.uasset"
+[2017.01.21-06.22.37:183][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" to "../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/StarterContent/Textures/T_Metal_Gold_N.uasset"
+[2017.01.21-06.22.37:515][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" to "../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/StarterContent/Textures/T_Metal_Rust_D.uasset"
+[2017.01.21-06.22.37:642][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" to "../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/StarterContent/Textures/T_Metal_Rust_N.uasset"
+[2017.01.21-06.22.37:728][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" to "../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/StarterContent/Textures/T_Metal_Steel_D.uasset"
+[2017.01.21-06.22.37:801][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" to "../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/StarterContent/Textures/T_Metal_Steel_N.uasset"
+[2017.01.21-06.22.37:928][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" to "../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset"
+[2017.01.21-06.22.37:980][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_M.uasset" to "../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/StarterContent/Textures/T_RockMesh_M.uasset"
+[2017.01.21-06.22.38:216][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_N.uasset" to "../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/StarterContent/Textures/T_RockMesh_N.uasset"
+[2017.01.21-06.22.38:334][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" to "../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset"
+[2017.01.21-06.22.38:490][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" to "../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset"
+[2017.01.21-06.22.38:593][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" to "../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset"
+[2017.01.21-06.22.38:751][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset" to "../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset"
+[2017.01.21-06.22.38:886][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset" to "../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset"
+[2017.01.21-06.22.39:104][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_D.uasset" to "../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/StarterContent/Textures/T_Rock_Slate_D.uasset"
+[2017.01.21-06.22.39:263][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_N.uasset" to "../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/StarterContent/Textures/T_Rock_Slate_N.uasset"
+[2017.01.21-06.22.39:729][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" to "../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset"
+[2017.01.21-06.22.39:799][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_M.uasset" to "../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/StarterContent/Textures/T_Shelf_M.uasset"
+[2017.01.21-06.22.40:082][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_N.uasset" to "../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/StarterContent/Textures/T_Shelf_N.uasset"
+[2017.01.21-06.22.40:199][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Single_Tile_N.uasset" to "../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/StarterContent/Textures/T_Single_Tile_N.uasset"
+[2017.01.21-06.22.40:668][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" to "../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/StarterContent/Textures/T_Smoke_SubUV.uasset"
+[2017.01.21-06.22.40:853][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" to "../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset"
+[2017.01.21-06.22.40:914][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Spark_Core.uasset" to "../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/StarterContent/Textures/T_Spark_Core.uasset"
+[2017.01.21-06.22.41:017][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_M.uasset" to "../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/StarterContent/Textures/T_Statue_M.uasset"
+[2017.01.21-06.22.41:094][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_N.uasset" to "../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/StarterContent/Textures/T_Statue_N.uasset"
+[2017.01.21-06.22.41:104][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_M.uasset" to "../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/StarterContent/Textures/T_TableRound_M.uasset"
+[2017.01.21-06.22.41:165][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_N.uasset" to "../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/StarterContent/Textures/T_TableRound_N.uasset"
+[2017.01.21-06.22.41:210][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_M.uasset" to "../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/StarterContent/Textures/T_Tech_Dot_M.uasset"
+[2017.01.21-06.22.41:270][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_N.uasset" to "../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/StarterContent/Textures/T_Tech_Dot_N.uasset"
+[2017.01.21-06.22.41:315][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" to "../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset"
+[2017.01.21-06.22.41:339][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" to "../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset"
+[2017.01.21-06.22.41:372][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_M.uasset" to "../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/StarterContent/Textures/T_Tech_Panel_M.uasset"
+[2017.01.21-06.22.41:418][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_N.uasset" to "../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/StarterContent/Textures/T_Tech_Panel_N.uasset"
+[2017.01.21-06.22.41:471][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_M.uasset" to "../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/StarterContent/Textures/T_Water_M.uasset"
+[2017.01.21-06.22.41:536][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_N.uasset" to "../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/StarterContent/Textures/T_Water_N.uasset"
+[2017.01.21-06.22.41:642][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" to "../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset"
+[2017.01.21-06.22.41:704][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" to "../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset"
+[2017.01.21-06.22.41:751][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" to "../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset"
+[2017.01.21-06.22.41:851][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" to "../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/StarterContent/Textures/T_Wood_Oak_D.uasset"
+[2017.01.21-06.22.41:936][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" to "../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/StarterContent/Textures/T_Wood_Oak_N.uasset"
+[2017.01.21-06.22.42:039][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" to "../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/StarterContent/Textures/T_Wood_Pine_D.uasset"
+[2017.01.21-06.22.42:105][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" to "../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/StarterContent/Textures/T_Wood_Pine_N.uasset"
+[2017.01.21-06.22.42:286][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" to "../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset"
+[2017.01.21-06.22.42:380][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" to "../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset"
+[2017.01.21-06.22.42:802][  0]LogRenderer: Reallocating scene render targets to support 256x256 NumSamples 1 (Frame:2).
+[2017.01.21-06.22.43:060][  0]LogSavePackage: Save=21.02ms
+[2017.01.21-06.22.43:061][  0]LogSavePackage: Moving '../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Saved/Floor_400x400C9EA05D04969CB0D4D0A2B94F02256EA.tmp' to '../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/StarterContent/Architecture/Floor_400x400.uasset'
+[2017.01.21-06.22.43:066][  0]LogSavePackage:Display: Finished SavePackage ../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/StarterContent/Architecture/Floor_400x400.uasset
+[2017.01.21-06.22.43:066][  0]LogFeaturePack:Warning: Inserted 1 feature packs
+[2017.01.21-06.22.43:068][  0]Cmd: MAP LOAD FILE="../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.01.21-06.22.43:069][  0]LightingResults: New page: Lighting Build
+[2017.01.21-06.22.43:180][  0]MapCheck: New page: Map Check
+[2017.01.21-06.22.43:180][  0]LightingResults: New page: Lighting Build
+[2017.01.21-06.22.44:871][  0]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2017.01.21-06.22.44:883][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.01.21-06.22.44:884][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.01.21-06.22.45:038][  0]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 153.543ms to complete.
+[2017.01.21-06.22.45:038][  0]LogFileHelpers: Loading map '2DSideScrollerExampleMap' took 1.969
+[2017.01.21-06.22.45:106][  0]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
+[2017.01.21-06.22.45:566][  0]LogCollectionManager: Loaded 0 collections in 0.002502 seconds
+[2017.01.21-06.22.45:743][  0]LogFileCache: Scanning file cache for directory 'C:/Program Files (x86)/Epic Games/TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Saved/Collections/' took 0.01s
+[2017.01.21-06.22.45:743][  0]LogFileCache: Scanning file cache for directory 'C:/Program Files (x86)/Epic Games/TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/Developers/Daniel/Collections/' took 0.01s
+[2017.01.21-06.22.45:743][  0]LogFileCache: Scanning file cache for directory 'C:/Program Files (x86)/Epic Games/TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/Collections/' took 0.01s
+[2017.01.21-06.22.45:743][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000002 seconds
+[2017.01.21-06.22.45:755][  0]LogContentBrowser: Native class hierarchy populated in 0.0115 seconds. Added 2190 classes and 428 folders.
+[2017.01.21-06.22.45:858][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2017.01.21-06.22.45:858][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2017.01.21-06.22.45:859][  0]LogContentBrowser: Native class hierarchy updated for 'GameplayTags' in 0.0006 seconds. Added 13 classes and 0 folders.
+[2017.01.21-06.22.46:033][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2017.01.21-06.22.47:150][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0027 seconds. Added 0 classes and 0 folders.
+[2017.01.21-06.22.47:380][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0009 seconds. Added 1 classes and 2 folders.
+[2017.01.21-06.22.47:491][  0]LogCrashTracker: Crashtracker disabled due to settings.
+[2017.01.21-06.22.47:501][  0]LogUObjectGlobals:Warning: Failed to find object 'Class None.'
+[2017.01.21-06.22.47:668][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0010 seconds. Added 1 classes and 2 folders.
+[2017.01.21-06.22.47:668][  0]LogLoad: (Engine Initialization) Total time: 100.01 seconds
+[2017.01.21-06.22.47:668][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.31 seconds
+[2017.01.21-06.22.47:668][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2017.01.21-06.22.47:668][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2017.01.21-06.22.47:686][  0]LogOcInput: OculusInput pre-init called
+[2017.01.21-06.22.48:014][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2017.01.21-06.22.48:353][  0]LogRenderer: Reallocating scene render targets to support 804x368 NumSamples 1 (Frame:3).
+[2017.01.21-06.22.48:477][  2]LogAssetRegistry: Asset discovery search completed in 65.4769 seconds
+[2017.01.21-06.22.48:477][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2017.01.21-06.22.48:477][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000084 seconds (updated 0 objects)
+[2017.01.21-06.23.21:476][250]SourceControl: Info On branch master
+[2017.01.21-06.23.21:476][250]SourceControl: Info Your branch is up-to-date with 'origin/master'.
+[2017.01.21-06.23.21:476][250]SourceControl: Info Untracked files:
+[2017.01.21-06.23.21:476][250]SourceControl: Info   (use "git add <file>..." to include in what will be committed)
+[2017.01.21-06.23.21:476][250]SourceControl: Info 	TSUNAMI_SMACKDOWN/
+[2017.01.21-06.23.21:476][250]SourceControl: Info nothing added to commit but untracked files present (use "git add" to track)
+[2017.01.21-06.23.37:387][175]SourceControl: Info fatal: C:/Program Files (x86)/Epic Games/4.14/Engine/Content/: 'C:/Program Files (x86)/Epic Games/4.14/Engine/Content/' is outside repository
+[2017.01.21-06.23.37:626][175]LogPackageName:Error: Illegal call to DoesPackageExist: '../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/TSUNAMI_SMACKDOWN.uproject' is not a standard unreal filename or a long path name. Reason: Path should be no less than 4 characters long.
+[2017.01.21-06.23.37:679][175]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.053 s
+[2017.01.21-06.23.37:680][175]LogOutputDevice:Error: === Handled ensure: ===
+[2017.01.21-06.23.37:680][175]LogOutputDevice:Error: 
+[2017.01.21-06.23.37:680][175]LogOutputDevice:Error: Ensure condition failed: false [File:D:\Build\++UE4+Release-4.14+Compile\Sync\Engine\Source\Runtime\CoreUObject\Private\Misc\PackageName.cpp] [Line: 624]
+[2017.01.21-06.23.37:680][175]LogOutputDevice:Error: Illegal call to DoesPackageExist: '../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/TSUNAMI_SMACKDOWN.uproject' is not a standard unreal filename or a long path name. Reason: Path should be no less than 4 characters long.
+[2017.01.21-06.23.37:680][175]LogOutputDevice:Error: Stack: 
+[2017.01.21-06.23.37:680][175]LogOutputDevice:Error: UE4Editor-Core.dll
+[2017.01.21-06.23.37:680][175]LogOutputDevice:Error: UE4Editor-Core.dll
+[2017.01.21-06.23.37:680][175]LogOutputDevice:Error: UE4Editor-Core.dll
+[2017.01.21-06.23.37:680][175]LogOutputDevice:Error: UE4Editor-CoreUObject.dll
+[2017.01.21-06.23.37:680][175]LogOutputDevice:Error: UE4Editor-SourceControl.dll
+[2017.01.21-06.23.37:680][175]LogOutputDevice:Error: UE4Editor-SourceControl.dll
+[2017.01.21-06.23.37:680][175]LogOutputDevice:Error: UE4Editor-SourceControlWindows.dll
+[2017.01.21-06.23.37:680][175]LogOutputDevice:Error: UE4Editor-SourceControlWindows.dll
+[2017.01.21-06.23.37:680][175]LogOutputDevice:Error: UE4Editor-SourceControlWindows.dll
+[2017.01.21-06.23.37:680][175]LogOutputDevice:Error: UE4Editor-SourceControlWindows.dll
+[2017.01.21-06.23.37:680][175]LogOutputDevice:Error: UE4Editor-GitSourceControl.dll
+[2017.01.21-06.23.37:680][175]LogOutputDevice:Error: UE4Editor-GitSourceControl.dll
+[2017.01.21-06.23.37:680][175]LogOutputDevice:Error: UE4Editor-SourceControl.dll
+[2017.01.21-06.23.37:680][175]LogOutputDevice:Error: UE4Editor-UnrealEd.dll
+[2017.01.21-06.23.37:680][175]LogOutputDevice:Error: UE4Editor-UnrealEd.dll
+[2017.01.21-06.23.37:680][175]LogOutputDevice:Error: UE4Editor.exe
+[2017.01.21-06.23.37:680][175]LogOutputDevice:Error: UE4Editor.exe
+[2017.01.21-06.23.37:680][175]LogOutputDevice:Error: UE4Editor.exe
+[2017.01.21-06.23.37:680][175]LogOutputDevice:Error: UE4Editor.exe
+[2017.01.21-06.23.37:680][175]LogOutputDevice:Error: UE4Editor.exe
+[2017.01.21-06.23.37:680][175]LogOutputDevice:Error: KERNEL32.DLL
+[2017.01.21-06.23.37:680][175]LogOutputDevice:Error: ntdll.dll
+[2017.01.21-06.23.37:680][175]LogOutputDevice:Error: 
+[2017.01.21-06.23.37:690][175]LogStats:                SubmitErrorReport -  0.000 s
