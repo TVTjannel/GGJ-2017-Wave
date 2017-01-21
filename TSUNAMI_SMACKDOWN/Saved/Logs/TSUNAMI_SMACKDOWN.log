@@ -359,3 +359,7 @@ LogInit: Object subsystem initialized
 [2017.01.21-07.32.27:669][130]LogStats:             FDebug::EnsureFailed -  1.945 s
 [2017.01.21-07.32.42:011][130]LogSourceControl: FGitCheckInWorker: commit successful
 [2017.01.21-07.32.44:818][130]SourceControl:Error: Error fatal: cannot do a partial commit during a merge.
+[2017.01.21-07.32.44:831][130]SourceControl: Info Submitted revision.
+[2017.01.21-07.37.00:902][684]LogSavePackage: Save=71.35ms
+[2017.01.21-07.37.00:902][684]LogSavePackage: Moving '../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Saved/2DSideScrollerExampleMapE888C71646C8450F61441FB2EEA14F2F.tmp' to '../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.umap'
+[2017.01.21-07.37.00:905][684]LogSavePackage:Display: Finished SavePackage ../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.umap
