@@ -363,3 +363,32 @@ LogInit: Object subsystem initialized
 [2017.01.21-07.37.00:902][684]LogSavePackage: Save=71.35ms
 [2017.01.21-07.37.00:902][684]LogSavePackage: Moving '../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Saved/2DSideScrollerExampleMapE888C71646C8450F61441FB2EEA14F2F.tmp' to '../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.umap'
 [2017.01.21-07.37.00:905][684]LogSavePackage:Display: Finished SavePackage ../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.umap
+[2017.01.21-07.37.00:924][684]LogFileHelpers: Saving map '2DSideScrollerExampleMap' took 0.234
+[2017.01.21-07.39.06:382][683]LogSavePackage: Save=68.34ms
+[2017.01.21-07.39.06:382][683]LogSavePackage: Moving '../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Saved/2DSideScrollerExampleMap4961C8EA4305BE1CD23F8CAE5C9A9D4B.tmp' to '../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.umap'
+[2017.01.21-07.39.06:384][683]LogSavePackage:Display: Finished SavePackage ../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.umap
+[2017.01.21-07.39.09:233][683]LogSavePackage: Save=61.29ms
+[2017.01.21-07.39.09:233][683]LogSavePackage: Moving '../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Saved/2DSideScrollerExampleMap_BuiltData584D5D6F4DEE03ACB16F39A65C923E44.tmp' to '../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap_BuiltData.uasset'
+[2017.01.21-07.39.09:235][683]LogSavePackage:Display: Finished SavePackage ../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap_BuiltData.uasset
+[2017.01.21-07.39.14:039][965]SourceControl: Info Source control is disabled
+[2017.01.21-07.39.15:733][ 58]LogSavePackage: Save=66.72ms
+[2017.01.21-07.39.15:733][ 58]LogSavePackage: Moving '../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Saved/2DSideScrollerExampleMap5D9F9EAD4943221102C1E88126424258.tmp' to '../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.umap'
+[2017.01.21-07.39.15:735][ 58]LogSavePackage:Display: Finished SavePackage ../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.umap
+[2017.01.21-07.39.15:754][ 58]LogSavePackage: Save=1.06ms
+[2017.01.21-07.39.15:754][ 58]LogSavePackage: Moving '../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Saved/2DSideScrollerExampleMap_BuiltData879E53C7425C50D662F589ADB557B774.tmp' to '../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap_BuiltData.uasset'
+[2017.01.21-07.39.15:755][ 58]LogSavePackage:Display: Finished SavePackage ../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap_BuiltData.uasset
+[2017.01.21-07.39.16:378][ 89]LogSavePackage: Save=65.43ms
+[2017.01.21-07.39.16:378][ 89]LogSavePackage: Moving '../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Saved/2DSideScrollerExampleMap759485334F4165AA91BF69877032F973.tmp' to '../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.umap'
+[2017.01.21-07.39.16:379][ 89]LogSavePackage:Display: Finished SavePackage ../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.umap
+[2017.01.21-07.39.16:397][ 89]LogSavePackage: Save=1.01ms
+[2017.01.21-07.39.16:397][ 89]LogSavePackage: Moving '../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Saved/2DSideScrollerExampleMap_BuiltData40AB072C4D31F7CC1328E29D951E353D.tmp' to '../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap_BuiltData.uasset'
+[2017.01.21-07.39.16:399][ 89]LogSavePackage:Display: Finished SavePackage ../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap_BuiltData.uasset
+[2017.01.21-07.39.16:878][111]LogSavePackage: Save=66.69ms
+[2017.01.21-07.39.16:878][111]LogSavePackage: Moving '../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Saved/2DSideScrollerExampleMapA556F8B044C00CA51A456595581E2B5C.tmp' to '../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.umap'
+[2017.01.21-07.39.16:879][111]LogSavePackage:Display: Finished SavePackage ../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.umap
+[2017.01.21-07.39.16:897][111]LogSavePackage: Save=1.08ms
+[2017.01.21-07.39.16:897][111]LogSavePackage: Moving '../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Saved/2DSideScrollerExampleMap_BuiltData654805E04B2BAB5369BEC693C531C5AD.tmp' to '../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap_BuiltData.uasset'
+[2017.01.21-07.39.16:899][111]LogSavePackage:Display: Finished SavePackage ../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap_BuiltData.uasset
+[2017.01.21-07.39.17:293][128]LogSavePackage: Save=69.10ms
+[2017.01.21-07.39.17:293][128]LogSavePackage: Moving '../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Saved/2DSideScrollerExampleMap32E601F34F1FBC0106E5DAA01F46C850.tmp' to '../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.umap'
+[2017.01.21-07.39.17:295][128]LogSavePackage:Display: Finished SavePackage ../../../../TSUNAMI SMACKDOWN/GGJ-2017-Wave/TSUNAMI_SMACKDOWN/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.umap
