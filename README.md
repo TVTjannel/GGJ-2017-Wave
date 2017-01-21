@@ -5,7 +5,7 @@ Global Game Jam 2017
 Theme: Waves
 
 Creators:
-Hamilton Connor
-Hasaan Javed
-Justin Lau
+Hamilton Connor,
+Hasaan Javed,
+Justin Lau,
 Daniel Tjandra
