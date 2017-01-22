@@ -8,5 +8,8 @@
 			"Name": "Paper2D",
 			"Enabled": true
 		}
+	],
+	"TargetPlatforms": [
+		"WindowsNoEditor"
 	]
 }

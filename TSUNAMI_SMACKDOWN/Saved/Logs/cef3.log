@@ -1,0 +1,2 @@
+[0121/034306:WARNING:raw_channel_win.cc(532)] WriteFile: The pipe is being closed. (0xE8)
+[0121/034306:WARNING:channel.cc(359)] RawChannel write error
